@@ -1,0 +1,136 @@
+*{ margin: 0;
+    box-sizing: border-box;}
+
+header{background-image: url(home-banner.jpg);
+background-size: cover;
+height: 100vh;
+position: relative;}
+
+#menu{list-style: none;
+    padding: 0;
+    background-color: black;
+    height: 6em;}
+
+    #menu li{ display: inline;
+    padding: 10px;
+    color: white; }
+
+    .tituloServices{font-weight: bold;
+    color: #fff;
+    font-size: 48px;
+    font-family: "Poppins",sans-serif;
+    text-align: center;
+    padding: 10%;}
+    
+    .subtituloServices{ color: #fff;
+    margin-left: 45%;
+margin-top: -10%;}
+
+.quadrados{display: flex;
+flex-wrap: wrap;}
+
+.quadrado01{ width: 20%;
+  height: 15%;
+  padding: 3%;
+  border: 1px solid;
+  margin-left: 2%;
+  margin-top: 3%;
+  font-family: "poppins",sans-serif;
+margin: 5%;}
+ 
+.titulo01{color: black;}
+.txtquadrado{color: #777;}
+
+.quadrado02{ width: 20%;
+  height: 15%;
+  padding: 3%;
+  border: 1px solid;
+  margin-top: 3%;
+  font-family: "poppins",sans-serif;
+  margin: 5%;}
+
+.titulo02{color: black;}
+.txtquadrado02{color: #777;}
+
+.quadrado03{ width: 20%;
+  height: 15%;
+  padding: 3%;
+  border: 1px solid;
+  margin-top: 3%;
+  font-family: "poppins",sans-serif;
+  margin: 5%;}
+
+.titulo03{color: black;}
+.txtquadrado03{color: #777;}
+
+.quadrado04{ width: 20%;
+  height: 15%;
+  padding: 3%;
+  border: 1px solid;
+  margin-top: 3%;
+  font-family: "poppins",sans-serif;
+  margin: 5%;}
+
+.titulo04{color: black;}
+.txtquadrado04{color: #777;}
+
+.quadrado05{ width: 20%;
+  height: 15%;
+  padding: 3%;
+  border: 1px solid;
+  margin-top: 3%;
+  font-family: "poppins",sans-serif;
+  margin: 5%;}
+
+.titulo05{color: black;}
+.txtquadrado05{color: #777;}
+
+.quadrado06{ width: 20%;
+  height: 15%;
+  padding: 3%;
+  border: 1px solid;
+  margin-top: 3%;
+  font-family: "poppins",sans-serif;
+  margin: 5%;}
+
+.titulo06{color: black;}
+.txtquadrado06{color: #777;}
+
+.bntamarelo02{background-color: yellow;
+width: 25%;
+height:15% ;
+text-align: center;
+margin-left: 40%;}
+
+
+#imagens02{display: flex;
+flex-wrap: wrap;
+padding: 7%;}
+
+.azul{background-color: #04091e;
+height: 15em;
+width: 100%;
+margin-top: -2%;}
+
+.abouttitulo{color: white;
+margin-left: 4%;}
+.about{color: #777;
+padding: 2%;}
+
+.about02{color: #777;
+padding: 2%;}
+
+.abouttitulo02{color: white;
+margin-left: 45%;
+margin-top: -15%;}
+.txtabout02{color: #777;
+margin-left: 45%;}
+.pesquisa{margin-left: 47%;
+padding: 2%;}
+
+.abouttitulo03{color: white;
+margin-left: 70%;
+margin-top: -10%;}
+.txtabout03{color: #777;
+margin-left: 70%;}
+

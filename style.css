@@ -1,0 +1,247 @@
+*{ margin: 0;
+    box-sizing: border-box;}
+
+header{background-image: url(home-banner.jpg);
+background-size: cover;
+height: 100vh;
+position: relative;}
+
+#menu{list-style: none;
+    padding: 0;
+    background-color: black;
+    height: 6em;}
+
+    #menu li{ display: inline;
+    padding: 10px;
+    color: white; }
+    
+    .meio{  background-color: black;
+  max-width: 555px;
+  margin-left: 38em;
+  padding: 45px 60px;
+  margin-bottom: 0em;
+  margin-top: 15%;
+  width: 25%;
+  }
+
+    .texto{color: white; }
+    
+    .amarelo{background-color: yellow;
+    height: 2%;
+  width: 10%;
+text-align: center;
+margin-left: 45%;
+padding:1%;
+font-size: 14px;
+}
+    
+
+.menu02{list-style: none;
+ justify-content: center;
+
+  height: 8em;}
+
+    .lista{border: 5%;
+    padding: 6%;
+    background-color: white;
+display: flex;
+border: 1px solid;
+}
+
+#Services{display: flex;
+ width: 60%;
+ margin: auto;
+ padding: 2%;
+
+}
+#imagens{display: flex;
+flex-wrap: wrap;}
+
+.imagem01{padding: 2%;
+justify-content: center;}
+
+.imagem02{padding: 1.5%;}
+
+.imagem03{padding: 1.5%;}
+
+.imagem04{margin-top: 1.5%;}
+
+.imagem05{justify-content: center;
+  padding: 2%;
+ margin-top: -2%;
+padding: 1.5%;}
+
+.imagem06{padding: 1.7%;
+margin-top: -2%;}
+
+.imagem07{padding: 1.7%;
+margin-top: -2%;}
+
+.imagem08{padding: 1.5%;
+margin-top: -2.5%;}
+
+.imagem09{justify-content: center;
+  padding: 2%;
+ margin-top: -2%;
+padding: 1.5%;}
+
+.imagem10{padding: 1.7%;
+margin-top: -2.5%;}
+
+.imagem11{padding: 1.7%;
+margin-top: -2.5%;}
+
+.bntamarelo{background-color: yellow;
+width: 15%;
+height:10% ;
+text-align: center;
+margin-left: 40%;}
+
+.cliente{background-color: yellow;
+margin-top: 2%;
+height: 20%;}
+.titulocliente{ padding: 2%;}
+.txtcliente{padding: 1%;}
+
+.txtbranco{ display: flex;
+  margin-top: -11%;
+margin-left: 50%;
+background-color: white;
+height: 20%;
+width: 25%;}
+.textos{color: black;
+padding: 2%;
+text-align: center;}
+
+.quadrados{display: flex;
+flex-wrap: wrap;}
+
+.quadrado01{ width: 20%;
+  height: 15%;
+  padding: 3%;
+  border: 1px solid;
+  margin-left: 2%;
+  margin-top: 3%;
+  font-family: "poppins",sans-serif;
+margin: 5%;}
+ 
+.titulo01{color: black;}
+.txtquadrado{color: #777;}
+
+.quadrado02{ width: 20%;
+  height: 15%;
+  padding: 3%;
+  border: 1px solid;
+  margin-top: 3%;
+  font-family: "poppins",sans-serif;
+  margin: 5%;}
+
+.titulo02{color: black;}
+.txtquadrado02{color: #777;}
+
+.quadrado03{ width: 20%;
+  height: 15%;
+  padding: 3%;
+  border: 1px solid;
+  margin-top: 3%;
+  font-family: "poppins",sans-serif;
+  margin: 5%;}
+
+.titulo03{color: black;}
+.txtquadrado03{color: #777;}
+
+.quadrado04{ width: 20%;
+  height: 15%;
+  padding: 3%;
+  border: 1px solid;
+  margin-top: 3%;
+  font-family: "poppins",sans-serif;
+  margin: 5%;}
+
+.titulo04{color: black;}
+.txtquadrado04{color: #777;}
+
+.quadrado05{ width: 20%;
+  height: 15%;
+  padding: 3%;
+  border: 1px solid;
+  margin-top: 3%;
+  font-family: "poppins",sans-serif;
+  margin: 5%;}
+
+.titulo05{color: black;}
+.txtquadrado05{color: #777;}
+
+.quadrado06{ width: 20%;
+  height: 15%;
+  padding: 3%;
+  border: 1px solid;
+  margin-top: 3%;
+  font-family: "poppins",sans-serif;
+  margin: 5%;}
+
+.titulo06{color: black;}
+.txtquadrado06{color: #777;}
+.subtitulo{color: #777;}
+
+.bntamarelo02{background-color: yellow;
+width: 25%;
+height:15% ;
+text-align: center;
+margin-left: 40%;}
+
+#imagens02{display: flex;
+flex-wrap: wrap;
+padding: 7%;}
+
+.azul{background-color: #04091e;
+height: 15em;
+width: 100%;
+margin-top: -2%;}
+
+.abouttitulo{color: white;
+margin-left: 4%;}
+.about{color: #777;
+padding: 2%;}
+
+.about02{color: #777;
+padding: 2%;}
+
+.abouttitulo02{color: white;
+margin-left: 45%;
+margin-top: -15%;}
+.txtabout02{color: #777;
+margin-left: 45%;}
+.pesquisa{margin-left: 47%;
+padding: 2%;}
+
+.abouttitulo03{color: white;
+margin-left: 70%;
+margin-top: -10%;}
+.txtabout03{color: #777;
+margin-left: 70%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
